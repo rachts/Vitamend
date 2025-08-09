@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@auth/core": "^0.40.0",
+    "@auth/core": "^0.34.2",
     "@clerk/nextjs": "latest",
     "@hookform/resolvers": "^3.9.1",
     "@playwright/test": "latest",
