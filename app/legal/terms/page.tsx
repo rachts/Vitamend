@@ -112,9 +112,9 @@ export default function TermsOfService() {
             <h2 className="text-xl font-semibold text-[#1a472a] mb-4">9. Contact Information</h2>
             <p className="text-[#2d3748] mb-4">For questions about these Terms of Service, please contact us at:</p>
             <div className="text-[#2d3748]">
-              <p>Email: legal@vitamend.com</p>
-              <p>Phone: +1 (555) 123-4567</p>
-              <p>Address: 123 Healthcare Ave, Medical District, City, State 12345</p>
+              <p>Email: vitamend.org@gmail.com</p>
+              <p>Phone: +919929243215</p>
+              <p>Address: </p>
             </div>
           </section>
         </div>
